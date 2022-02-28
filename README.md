@@ -26,10 +26,10 @@ The main challenge I encountered while working on this project was solidifying t
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date? The success rate of launching theater campaigns are highest May followed by June. There is a steady decline in the success rate of launched campaigns between October to December and an increase in failures between September and October.
+* What are two conclusions you can draw about the Outcomes based on Launch Date? The success rate of launching theater campaigns are highest May followed by June. There is a steady decline in the success rate of launched campaigns between October to December and an increase in failures between September and October.
 
-- What can you conclude about the Outcomes based on Goals? The rate of success is higher for campaigns with a funding goal that is less than $5,000. Campaigns with a funding goal of less than a $1,000 up to $4,999 had a success rate ranging from 72.66% - 75.81%, while campaigns with higher funding goals didn’t have nearly as high of a success rate.
+* What can you conclude about the Outcomes based on Goals? The rate of success is higher for campaigns with a funding goal that is less than $5,000. Campaigns with a funding goal of less than a $1,000 up to $4,999 had a success rate ranging from 72.66% - 75.81%, while campaigns with higher funding goals didn’t have nearly as high of a success rate.
 
-- What are some limitations of this dataset? One limitation of the dataset includes the lack of data past 2017. Additionally, including more data points may allow for an increase in data points specific to plays, which is another limitation of the dataset. This would provide more information and allow to better analyze trends related to Louise's fundraising campaign. 
+* What are some limitations of this dataset? One limitation of the dataset includes the lack of data past 2017. Additionally, including more data points may allow for an increase in data points specific to plays, which is another limitation of the dataset. This would provide more information and allow to better analyze trends related to Louise's fundraising campaign. 
 
-- What are some other possible tables and/or graphs that we could create? 
+* What are some other possible tables and/or graphs that we could create? Other graphs we can create include a line graph comparing each successful, failed and canceled outcomes based on goals by year, we can also create a bar graph comparing parent categories or subcategories by outcomes and one final table we can create is the count of outcomes based on the parent category or subcategory with a corresponding line chart. 
